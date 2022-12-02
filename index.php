@@ -6,7 +6,9 @@
     <title>Welcome to Aahan in Space!</title>
 </head>
 <body>
-        <?php echo "Hello welcome to the webpage of Aahan in Space, this website is constantly improving. Are you having any issues if so please can you report them on the channel discord server or on the GitHub repo page for this website." ;
-        ?>
+    <strong>Hello welcome to the webpage of Aahan in Space.</strong>
+    <p>Are you having any issues if so please can you report them on the <a href="https://discord.com/channels/1031920032084672573/1036228918119772212"</a>Discord server</p>
+    <p>Or on the <a href="https://github.com/2010person/aahaninspace-website"</a>GitHub repo page for this website</p>
+    <p>Find out more about Aahan in Space <a href="https://aahaninspace.tk/about" here</a></p>
 </body>
 </html>
