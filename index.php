@@ -10,5 +10,6 @@
     <p><a href="https://discord.com/channels/1031920032084672573/1036228918119772212"</a>Are you having any issues if so please can you report them on the Discord server</p>
     <p><a href="https://github.com/2010person/aahaninspace-website"</a>Or on the GitHub repo page for this website</p>
     <p><a href="https://aahaninspace.tk/about"</a>Find out more about Aahan in Space here</p>
+    <p><a href="https://aahaninspace.tk/ads"</a>Click here to view ads to raise money for the channel!!</p>
 </body>
 </html>
