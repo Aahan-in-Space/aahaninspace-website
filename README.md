@@ -1,9 +1,37 @@
-# aahaninspace-website
+# Aahan in Space website
 Website for aahaninspace.tk.
-It is hosted by 000webhost.
-It is hosted in a domain called aahaninspace.tk brought free of cost from Freenom.
-We use PHP to program the website (apparently we use Hack, which is a dialect of PHP, but it is almost the same as normal PHP)
-Please read the README.md and the LICENSE.md before contributing.
-In GitHub issues, they will be labled Feature... and Issue... please do not spam posts marked as Spam should be ignored
-If you think there is a security vulnerability go to the GitHub Security Tab, select advisories and click new draft advisory.
-Thanks for taking the time to contribute!!
+# How the website works
+I have brought aahaninspace.tk free of Freenom.
+The domains nameservers are pointed to CloudFlare (we use the free plan).
+From CloudFlare we recieve a number of features including encryption.
+We have used CNAME records to point 000webhost to CloudFlare.
+We use 000webhost because it is one of the only free web hosting services that host websites coded in PHP.
+Here this GitHub repo is basically the websites backup and where we can collaborate to make the website.
+We use PHP to program the website (even though GitHub says we use Hack, which is a dialect of PHP).
+# For people considering to contribute
+Please read the rest of the README.md and the LICENSE.md before contributing.
+In GitHub Issues, issues will be labled Feature... and Issue... 
+For example, "Feature - Add a PDF file to the event webpage" and "Issue - Chrome displays security warning for PDF download".
+Issues marked as Spam should be ignored.
+Issues and pull requests (regardless of status) can be viewed in this GitHub Project https://github.com/orgs/Aahan-in-Space/projects/1 .
+Please only contribute on things to help with the GitHub issues.
+If you would like to see a new feature that hasn't got a GitHub Issue yet, submit a feature issue first.
+If you are trying to fix a bug that hasn't got a GitHub Issue, submit a (Issue...) issue first.
+In your pull request please provide a link to the issue your fork/branch is trying to fix.
+# Don't do this on the repository
+Do not use this repository as a place for any sort of discrimination or humiliation.
+Do not spam issues in GitHub Issues.
+Do not spame pull requests.
+Do not submit pull requests with purposeful intent to be incorrect or to be unethical or hurtful to other people.
+There are other things that have not been mentioned (but please use common sense to determine whether you should do them).
+Anybody in violation of these rules could be reported to GitHub ; have banned code and/or issues removed or marked as spam ; and lose ability to edit/view repository.
+#Licensing
+We at Aahan in Space use the MIT license (recommened by GitHub).
+When you submit any code for contributing purposes you agree that it becomes the property of Aahan in Space.
+Please make sure you agree to the LICENSE.md before contributing.
+If you contribute it will be automatically assumed you have agreed.
+#Security
+Here at Aahan in Space we take security very seriously.
+We use GitHub security to meet all of our security needs.
+If you think there is a security vulnerability go to the Security Tab, select advisories, click new draft advisory and enter what the security vulnerability is. 
+#Thanks for taking the time to read this and contribute!!!
