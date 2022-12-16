@@ -18,6 +18,7 @@ Please only contribute on things to help with the GitHub issues.
 If you would like to see a new feature that hasn't got a GitHub Issue yet, submit a feature issue first.
 If you are trying to fix a bug that hasn't got a GitHub Issue, submit a (Issue...) issue first.
 In your pull request please provide a link to the issue your fork/branch is trying to fix.
+Also ignore the GitHUb Pages workflow run.
 # Don't do this on the repository
 Do not use this repository as a place for any sort of discrimination or humiliation.
 Do not spam issues in GitHub Issues.
