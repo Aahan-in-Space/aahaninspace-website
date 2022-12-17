@@ -40,7 +40,8 @@ We use GitHub security to meet all of our security needs.
 If you think there is a security vulnerability go to the Security Tab, select advisories, click new draft advisory and enter what the security vulnerability is. 
 # DISCUSS!!
 Putting all that serious stuff aside go to the Discussions tab in this repo to engage in GitHub Discussions
-Please note discussions put on the ideas category should be converted into a GitHub Issue if you want it to be implemented on.
+Please note discussions put in the ideas category should be converted into a GitHub Issue if you want it to be implemented on.
+Please also follow this repo's GitHub Wiki.
 I am a working on a area on the website for web development volunteers (in GitHub Issues)
 Also, I am a working a web development place in my Discord server.
 #Thanks for taking the time to read this and contribute!!!
