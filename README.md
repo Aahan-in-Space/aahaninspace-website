@@ -41,4 +41,6 @@ If you think there is a security vulnerability go to the Security Tab, select ad
 # DISCUSS!!
 Putting all that serious stuff aside go to the Discussions tab in this repo to engage in GitHub Discussions
 Please note discussions put on the ideas category should be converted into a GitHub Issue if you want it to be implemented on.
+I am a working on a area on the website for web development volunteers (in GitHub Issues)
+Also, I am a working a web development place in my Discord server.
 #Thanks for taking the time to read this and contribute!!!
