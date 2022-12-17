@@ -19,6 +19,9 @@ If you would like to see a new feature that hasn't got a GitHub Issue yet, submi
 If you are trying to fix a bug that hasn't got a GitHub Issue, submit a (Issue...) issue first.
 In your pull request please provide a link to the issue your fork/branch is trying to fix.
 Also ignore the GitHUb Pages workflow run.
+You can use whatever IDE (Integrated Development Environment) you wish to use.
+Personally, I am using Microsoft Visual Studio 2022 Community.
+To run PHP locally on your machine follow this link for full setup - https://www.php.net/manual/en/install.php
 # Don't do this on the repository
 Do not use this repository as a place for any sort of discrimination or humiliation.
 Do not spam issues in GitHub Issues.
@@ -26,16 +29,16 @@ Do not spame pull requests.
 Do not submit pull requests with purposeful intent to be incorrect or to be unethical or hurtful to other people.
 There are other things that have not been mentioned (but please use common sense to determine whether you should do them).
 Anybody in violation of these rules could be reported to GitHub ; have banned code and/or issues removed or marked as spam ; and lose ability to edit/view repository.
-#Licensing
+# Licensing
 We at Aahan in Space use the MIT license (recommened by GitHub).
 When you submit any code for contributing purposes you agree that it becomes the property of Aahan in Space.
 Please make sure you agree to the LICENSE.md before contributing.
 If you contribute it will be automatically assumed you have agreed.
-#Security
+# Security
 Here at Aahan in Space we take security very seriously.
 We use GitHub security to meet all of our security needs.
 If you think there is a security vulnerability go to the Security Tab, select advisories, click new draft advisory and enter what the security vulnerability is. 
-#DISCUSS!!
+# DISCUSS!!
 Putting all that serious stuff aside go to the Discussions tab in this repo to engage in GitHub Discussions
 Please note discussions put on the ideas category should be converted into a GitHub Issue if you want it to be implemented on.
 #Thanks for taking the time to read this and contribute!!!
