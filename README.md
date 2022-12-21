@@ -18,10 +18,30 @@ Please only contribute on things to help with the GitHub issues.
 If you would like to see a new feature that hasn't got a GitHub Issue yet, submit a feature issue first.
 If you are trying to fix a bug that hasn't got a GitHub Issue, submit a (Issue...) issue first.
 In your pull request please provide a link to the issue your fork/branch is trying to fix.
-Also ignore the GitHUb Pages workflow run.
+Also ignore the GitHub Pages workflow run.
 You can use whatever IDE (Integrated Development Environment) you wish to use.
 Personally, I am using Microsoft Visual Studio 2022 Community.
 To run PHP locally on your machine follow this link for full setup - https://www.php.net/manual/en/install.php
+## Some things about Personal Hypertext Processor (PHP)
+We are using PHP 7.2 .
+## Some things about HyperText Markup Language (HTML)
+We use HTML5 and this is built into PHP 7.2 (which we use)
+It is preferred if you keep tags lowercase so...
+```
+<p>HTML5 is the best HTML version</p>
+```
+Instead of 
+```
+<P>HTML5 is the best HTML version</P>
+```
+It is also preferred if you could start your PHP document (if it contains HTML) with...
+```
+<!DOCTYPE> html
+```
+Instead of...
+```
+<!doctype> html
+```
 # Don't do this on the repository
 Do not use this repository as a place for any sort of discrimination or humiliation.
 Do not spam issues in GitHub Issues.
