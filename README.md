@@ -24,6 +24,7 @@ Personally, I am using Microsoft Visual Studio 2022 Community.
 To run PHP locally on your machine follow this link for full setup - https://www.php.net/manual/en/install.php
 ## Some things about Personal Hypertext Processor (PHP)
 We are using PHP 7.2 .
+According to GitHub we use Hack (a dialect of PHP) but we are using normal PHP.
 ## Some things about HyperText Markup Language (HTML)
 We use HTML5 and this is built into PHP 7.2 (which we use)
 It is preferred if you keep tags lowercase so...
