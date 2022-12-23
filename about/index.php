@@ -12,6 +12,6 @@
     <p>I also have a Discord server, where we talk about cool things and recieve weekly updates in various topics!!</p>
     <p>Here you can join my<a href="https://discord.com/channels/1031920032084672573/1036228918119772212"> Discord server!!!</a></p>
     <p>Thank you for reading this about me section, hope you enjoy my content!!</p>
-    <p><a href="https://www.aahaninspace.tk">Go to HOME</a></p>
+    <p><a href="https://www.aahaninspace.tk">Return to HOME</a></p>
 </body>
 </html>
