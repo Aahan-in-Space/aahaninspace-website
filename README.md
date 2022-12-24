@@ -58,7 +58,7 @@ If you contribute it will be automatically assumed you have agreed.
 # Security
 Here at Aahan in Space we take security very seriously.
 We use GitHub security to meet all of our security needs.
-If you think there is a security vulnerability maill mailto:githubsecurity@aahaninspacevolunteer.ml 
+If you think there is a security vulnerability do this: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 We have also enable Dependabot, so Dependabot will create pull requests to resolve detected security vulnrabilites.
 We also have an actions workflow which scans pull requests for vulnerabilites.
 # DISCUSS!!
@@ -67,4 +67,5 @@ Please note discussions put in the ideas category should be converted into a Git
 Please also follow this repo's GitHub Wiki.
 I am a working on a area on the website for web development volunteers (in GitHub Issues)
 Also, I am a working a web development place in my Discord server.
+If you need urgent support please use normal channels and mail mailto:volunteersupport@aahaninspace.volunteer.ml
 #Thanks for taking the time to read this and contribute!!!
