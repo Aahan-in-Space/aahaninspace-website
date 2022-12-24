@@ -58,8 +58,9 @@ If you contribute it will be automatically assumed you have agreed.
 # Security
 Here at Aahan in Space we take security very seriously.
 We use GitHub security to meet all of our security needs.
-If you think there is a security vulnerability go to the Security Tab, select advisories, click new draft advisory and enter what the security vulnerability is. 
+If you think there is a security vulnerability maill mailto:githubsecurity@aahaninspacevolunteer.ml 
 We have also enable Dependabot, so Dependabot will create pull requests to resolve detected security vulnrabilites.
+We also have an actions workflow which scans pull requests for vulnerabilites.
 # DISCUSS!!
 Putting all that serious stuff aside go to the Discussions tab in this repo to engage in GitHub Discussions
 Please note discussions put in the ideas category should be converted into a GitHub Issue if you want it to be implemented on.
