@@ -13,5 +13,7 @@
     <p><a href="https://mars.nasa.gov/participate/send-your-name/">Click this link to sign up for the Mars Sample Return mission.</p>
     <p>See mine below!!!</a></p>
     <iframe width="980" height="410" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=427679920775" frameborder="0"></iframe>
+    <p><a href="https://discord.com/channels/1031920032084672573/1036228918119772212">Enjoying, why not join the Dicord server, see the widget below.</p>
+    <iframe src="https://discord.com/widget?id=1031920032084672573&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </body>
 </html>
