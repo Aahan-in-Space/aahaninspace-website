@@ -22,6 +22,7 @@ Also ignore the GitHub Pages workflow run.
 You can use whatever IDE (Integrated Development Environment) you wish to use.
 Personally, I am using Microsoft Visual Studio 2022 Community.
 To run PHP locally on your machine follow this link for full setup - https://www.php.net/manual/en/install.php
+Please ignore the inactive GitHub Pages Environment as we are not using GitHub Pages anymore.
 ## Some things about Personal Hypertext Processor (PHP)
 We are using PHP 7.2 .
 According to GitHub we use Hack (a dialect of PHP) but we are using normal PHP.
