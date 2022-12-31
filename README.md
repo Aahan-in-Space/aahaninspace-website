@@ -27,7 +27,9 @@ Please ignore the inactive GitHub Pages Environment as we are not using GitHub P
 We are using PHP 7.2 .
 According to GitHub we use Hack (a dialect of PHP) but we are using normal PHP.
 ## Some things about HyperText Markup Language (HTML)
-We use HTML5 and this is built into PHP 7.2 (which we use)
+We use HTML5 and this is built into PHP 7.2 (which we use).
+So all of your HTML code should be written in .php files.
+The exception is the google verification site that was provided as a .html file.
 It is preferred if you keep tags lowercase so...
 ```
 <p>HTML5 is the best HTML version</p>
