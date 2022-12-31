@@ -57,5 +57,8 @@ Do not be silent! Silence is a sign that you accept the Russian government's pol
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Please reload your page to see Save Ukraine banner.">
+<br>
+<br>
+<h6>Please note some items have been taken from https://stand-with-ukraine.pp.ua</h6>
 </body>
 </html>
