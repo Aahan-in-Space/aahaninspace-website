@@ -70,5 +70,5 @@ Please note discussions put in the ideas category should be converted into a Git
 Please also follow this repo's GitHub Wiki.
 I am a working on a area on the website for web development volunteers (in GitHub Issues)
 Also, I am a working a web development place in my Discord server.
-If you need urgent support please use normal channels and mail mailto:volunteersupport@aahaninspace.volunteer.ml
+If you need urgent support please use normal channels and mail mailto:volunteerhelpdesk@aahaninspace.tk
 #Thanks for taking the time to read this and contribute!!!
