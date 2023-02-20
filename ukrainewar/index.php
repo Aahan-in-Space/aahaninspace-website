@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Support Ukraine</title>
+</head>
+<body>
+<h1>Russia has launched an illegal invasion of Ukraine.</h1>
+<h1>Please show your support for Ukraine below:</h1>
+<a target="_blank" href="https://stand-with-ukraine.pp.ua">
+<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Please reload your page for the Support Ukraine Banner, the link it takes you to is https://stand-with-ukraine.pp.ua ."></a>
+
+<h1>Below is a message for Russian users (the English translation is below the Russian translation):</h1>
+<span>🇷🇺 К гражданам России :
+
+В Украине сейчас идет война. Силами РФ наносятся удары по гражданской инфраструктуре в</span>
+<a target=_blank href="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7K2MSZDGFMIJPDD7CI2GIROJI.jpg">
+<span>Харькове, </span></a>
+<a target=_blank href="https://gdb.voanews.com/01bd0000-0aff-0242-fad0-08d9fc92c5b3_cx0_cy5_cw0_w1023_r1_s.jpg">
+<span>Киеве, </span></a>
+<a target=_blank href="https://ichef.bbci.co.uk/news/976/cpsprodpb/163DD/production/_123510119_hi074310744.jpg">
+<span>Чернигове, </span></a> 
+<a target=_blank href="https://www.youtube.com/watch?v=8K-bkqKKf2A">
+<span>Сумах, </span></a>
+<a target=_blank href="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg">
+<span>Ирпене</span></a> 
+<span>и десятках других городов. Гибнут люди - и гражданское население, и военные, </span> 
+<a target=_blank href="https://www.youtube.com/watch?v=wxnmy1Zu0-8&list=PL8ao2ZjeM9mslBOATvDa87lvgELw281lF&index=3&t=5s">
+<span>в том числе российские призывники6, </span></a>
+<span>которых бросили воевать. Чтобы лишить собственный народ доступа к информации, правительство РФ запретило называть войну войной, закрыло независимые СМИ и принимает сейчас ряд диктаторских законов. Эти законы призваны заткнуть рот всем, кто против войны. За обычный призыв к миру сейчас можно получить несколько лет тюрьмы.
+
+Не молчите! Молчание - знак вашего согласия с политикой российского правительства.</span>
+<strong>Вы можете сделать выбор НЕ МОЛЧАТЬ.</strong>
+<br>
+<br>
+<span>🇺🇸 To people of Russia:
+
+There is a war in Ukraine right now. The forces of the Russian Federation are attacking civilian infrastructure in </span>
+<a target=_blank href="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7K2MSZDGFMIJPDD7CI2GIROJI.jpg">
+<span>Kharkiv, </span></a>
+<a target=_blank href="https://gdb.voanews.com/01bd0000-0aff-0242-fad0-08d9fc92c5b3_cx0_cy5_cw0_w1023_r1_s.jpg">
+<span>Kyiv, </span></a> 
+<a target=_blank href="https://ichef.bbci.co.uk/news/976/cpsprodpb/163DD/production/_123510119_hi074310744.jpg">
+<span>Chernihiv, </span></a>
+<a target=_blank href="https://www.youtube.com/watch?v=8K-bkqKKf2A">
+<span>Sumy, </span></a>
+<a target=_blank href="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg">
+<span>Irpin </span></a> 
+<span>and dozens of other cities. People are dying – both civilians and military servicemen, </span>
+<a target=_blank href="https://www.youtube.com/watch?v=wxnmy1Zu0-8&list=PL8ao2ZjeM9mslBOATvDa87lvgELw281lF&index=3&t=5s">
+<span>including Russian conscripts </span></a>
+<span>who were thrown into the fighting. In order to deprive its own people of access to information, the government of the Russian Federation has forbidden calling a war a war, shut down independent media and is passing a number of dictatorial laws. These laws are meant to silence all those who are against war. You can be jailed for multiple years for simply calling for peace.
+
+Do not be silent! Silence is a sign that you accept the Russian government's policy.</span>
+<strong>You can choose NOT TO BE SILENT.</strong>
+<h1>A message about sanctions to users in the Russian Federation.</h1>
+<p>While we as a not-for-profit organization lack the ability to sanction users in the Russian Federation. Users in the Russian Federation should be aware of the third-party sanctions that affect our ability to deliver services. Youtube - Some paid functions ie. Channel sponsorships or Youtube Premium etc. are no longer avaidable for users in the Russian Federation. Discord - Paid features like Nitro and server boosting are no longer avaidable to users in the Russian Federation after the end of their billing period. The Government of the Russian Federation - due to the Government internally imposing a block on some websites some parts / all of this website and the volunteer website may be blocked for users inside the Russian Federation. We hope you understand.
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Please reload your page to see Save Ukraine banner.">
+<br>
+<br>
+<h6>Please note some items have been taken from https://stand-with-ukraine.pp.ua</h6>
+</body>
+</html>

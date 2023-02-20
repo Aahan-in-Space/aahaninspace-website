@@ -27,7 +27,9 @@ Please ignore the inactive GitHub Pages Environment as we are not using GitHub P
 We are using PHP 7.2 .
 According to GitHub we use Hack (a dialect of PHP) but we are using normal PHP.
 ## Some things about HyperText Markup Language (HTML)
-We use HTML5 and this is built into PHP 7.2 (which we use)
+We use HTML5 and this is built into PHP 7.2 (which we use).
+So all of your HTML code should be written in .php files.
+The exception is the google verification site that was provided as a .html file.
 It is preferred if you keep tags lowercase so...
 ```
 <p>HTML5 is the best HTML version</p>
@@ -68,5 +70,5 @@ Please note discussions put in the ideas category should be converted into a Git
 Please also follow this repo's GitHub Wiki.
 I am a working on a area on the website for web development volunteers (in GitHub Issues)
 Also, I am a working a web development place in my Discord server.
-If you need urgent support please use normal channels and mail mailto:volunteersupport@aahaninspace.volunteer.ml
+If you need urgent support please use normal channels and mail mailto:volunteerhelpdesk@aahaninspace.tk
 #Thanks for taking the time to read this and contribute!!!
