@@ -1,0 +1,20 @@
+h1 {
+    align-content: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.python {
+    color:#8fab8c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span {
+    color:darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

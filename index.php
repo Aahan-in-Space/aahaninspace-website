@@ -15,9 +15,5 @@
     <iframe width="980" height="410" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=427679920775" frameborder="0"></iframe>
     <p><a href="https://discord.com/channels/1031920032084672573/1036228918119772212">Enjoying, why not join the Dicord server, see the widget below.</p>
     <iframe src="https://discord.com/widget?id=1031920032084672573&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-    <br>
-    <br>    
-    <a href="/ukrainewar">Please click here to read about Aahan in Space's current stance on the war in Ukraine and its affect on users within the Russian Federation.</a>
-    <a href="/space_facts/">Do you want your code to know the knowledge of the universe? Click here!!</a>
 </body>
 </html>

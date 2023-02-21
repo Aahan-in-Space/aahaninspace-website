@@ -3,6 +3,10 @@
     "",
     "\\ukrainewar"
   ],
+<<<<<<< Updated upstream
   "SelectedNode": "\\ukrainewar\\index.php",
+=======
+  "SelectedNode": "\\.htaccess",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
